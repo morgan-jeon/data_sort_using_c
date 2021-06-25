@@ -1,8 +1,10 @@
 1. [병합정렬](1_MergeSort.md)
-2. 이분탐색
-3. 트리의 순회
-4. 버블, 선택, 삽입정렬
-5. 퀵 정렬
-6. 구조체 정렬
-7. 힙 정렬
-8. BFS, DFS
+2. [이분탐색](2_BinarySearch.md)
+3. [트리의 순회](3_TreeTravel.md)
+4. [버블, 선택, 삽입정렬](4_BasicSort.md)
+5. [퀵 정렬](5_QuicSort.md)
+6. [구조체 정렬](6_StructureSort.md)
+7. [힙 정렬](7_HeapSort.md)
+8. [BFS, DFS](8_BFS_DFS.md)
+9. [스택, 큐, 리스트](9_StackQueueList.md)
+A. [그래프](A_Graph.md)
