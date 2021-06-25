@@ -7,4 +7,4 @@
 7. [힙 정렬](7_HeapSort.md)
 8. [BFS, DFS](8_BFS_DFS.md)
 9. [스택, 큐, 리스트](9_StackQueueList.md)
-A. [그래프](A_Graph.md)
+10. [그래프](A_Graph.md)
