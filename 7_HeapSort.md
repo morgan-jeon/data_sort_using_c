@@ -1,3 +1,4 @@
+```cpp
 #include <cstdio>
 
 void swap(int* a, int* b){
@@ -73,3 +74,4 @@ int main()
     display(arr, n);
     return 0;
 }
+```
