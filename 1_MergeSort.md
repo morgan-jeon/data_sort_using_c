@@ -1,3 +1,4 @@
+```cpp
 #include<iostream>
 
 void swap(int* a, int* b);
@@ -73,3 +74,4 @@ void m_sort(int *arr, int start, int end, int n){
 		m_merge(arr, start, middle, end, n);
 	}
 }
+```
