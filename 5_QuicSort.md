@@ -1,3 +1,4 @@
+```cpp
 #include <cstdio>
 
 void swap(int* a, int* b){
@@ -56,3 +57,4 @@ int main(){
     qsort(arr, 0, n-1, n);
     return 0;
 }
+```
